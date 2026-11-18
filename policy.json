@@ -1,0 +1,19 @@
+{
+  "telemetryUrl": "",
+  "admins": [
+    "anhcv11@fpt.com"
+  ],
+  "defaults": {
+    "features": {
+      "xuLy": false,
+      "tuDong": false
+    }
+  },
+  "users": {},
+  "installs": {},
+  "versions": [],
+  "v": 1,
+  "seq": 1,
+  "issuedAt": "2026-11-18T06:54:11.524Z",
+  "sig": "ZCWT7t544TKKkHdpn2x1-pS7ZDPPjMyQ41wMZ1yFBR-8PARnyvf_kuLtU2qw7iCahrjMbrMXdUGUoCCfsq3CUA"
+}
